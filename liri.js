@@ -10,7 +10,7 @@ var action = process.argv[2];
 var parameter = process.argv[3];
 
 
-
+//switch case for concert-this, spotify-this, and movie-this
 
 function switchCase() {
 
